@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4934b4c8.chunk.css",
+    "main.js": "/static/js/main.4a75d115.chunk.js",
+    "main.js.map": "/static/js/main.4a75d115.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.160d49d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.160d49d3.js.map",
+    "static/js/2.e1af2e87.chunk.js": "/static/js/2.e1af2e87.chunk.js",
+    "static/js/2.e1af2e87.chunk.js.map": "/static/js/2.e1af2e87.chunk.js.map",
+    "static/js/3.299c0edb.chunk.js": "/static/js/3.299c0edb.chunk.js",
+    "static/js/3.299c0edb.chunk.js.map": "/static/js/3.299c0edb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4934b4c8.chunk.css.map": "/static/css/main.4934b4c8.chunk.css.map",
+    "static/js/2.e1af2e87.chunk.js.LICENSE.txt": "/static/js/2.e1af2e87.chunk.js.LICENSE.txt",
+    "static/media/email.9c9ba3e1.svg": "/static/media/email.9c9ba3e1.svg",
+    "static/media/github.0561db14.svg": "/static/media/github.0561db14.svg",
+    "static/media/linkedin.0e741f83.svg": "/static/media/linkedin.0e741f83.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.160d49d3.js",
+    "static/js/2.e1af2e87.chunk.js",
+    "static/css/main.4934b4c8.chunk.css",
+    "static/js/main.4a75d115.chunk.js"
+  ]
+}
